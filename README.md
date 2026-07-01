@@ -1,9 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rohan+Ul+Hasan;Full-Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-![3D contribution graph](profile-3d-contrib/profile-green-animate.svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Hi+I'm+Rohan+Ul+Hasan;Full-Stack+Developer;React+%7C+Node+%7C+Python;Building+cool+stuff+on+GitHub" alt="typing-svg" />
 
-### Languages & Tools
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanadnan1&layout=compact&theme=tokyonight&langs_count=10&hide=jupyter+notebook)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,nodejs,express,mui,python,git,github,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+![My 3D contribution graph](./profile-3d-contrib/profile-night-green.svg)
